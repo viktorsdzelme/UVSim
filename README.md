@@ -1,6 +1,9 @@
 UVSim README
 ============
 
+## Design
+![UML class diagram](UML_Diagram_class.png)
+
 Description
 -----------
 UVSim is a Python implementation of the BasicML virtual machine.
